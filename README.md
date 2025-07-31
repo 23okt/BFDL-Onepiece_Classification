@@ -38,3 +38,15 @@ One Piece Image Classifier adalah proyek **image classification** yang menggunak
 ---
 
 ## 📁 Struktur Proyek
+
+📦 one-piece-image-classifier
+├── 📂 dataset
+│ └── [folder karakter One Piece]
+├── 📜 model_training.ipynb
+├── 📜 tflite_conversion.ipynb
+├── 📜 tfjs_conversion.ipynb
+├── 📁 saved_models/
+│ ├── model.h5
+│ ├── model.tflite
+│ └── model_tfjs/
+└── README.md
